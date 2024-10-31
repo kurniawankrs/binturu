@@ -1,0 +1,5 @@
+http://localhost/cbt/panel/
+database ada di folder /config
+
+admin
+masukaja
